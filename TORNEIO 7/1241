@@ -1,3 +1,15 @@
+/* --------------------------------------------------------------------------
+Disciplina  : Lógica de Programação, turma IB, 2026S1
+Nome        : Maria Eduarda de Carvalho Raimundo
+Linguagem   : C
+Problema    : https://judge.beecrowd.com/pt/problems/view/1241
+Data        : 07/05/2026
+Objetivo    : Ler dois valores em formato de string e verificar
+se o segundo valor encaixa no final do primeiro.
+Aprendizado : Uso de strings em C com strlen, strcpy e strcmp, além de estruturas de repetição, leitura de dados com scanf
+e comparação de partes de uma string.
+-------------------------------------------------------------------------- */
+
 #include <string.h>
 #include <stdio.h>
 
