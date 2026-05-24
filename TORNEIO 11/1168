@@ -1,3 +1,16 @@
+/* --------------------------------------------------------------------------
+Disciplina  : Lógica de Programação, turma IB, 2026S1
+Nome        : Maria Eduarda de Carvalho Raimundo
+Linguagem   : C
+Problema    : beecrowd 1168 - LED
+Data        : 19/05/2026
+Objetivo    : Ler valores numéricos e calcular a quantidade total de LEDs
+              necessária para exibir cada número informado, considerando
+              a quantidade de LEDs utilizada por cada dígito.
+Aprendizado : Aprendi a trabalhar com vetores para armazenar valores de
+              referência, percorrer strings com laços de repetição e
+              realizar cálculos utilizando caracteres em C.
+-------------------------------------------------------------------------- */
 #include <string.h>
 #include <stdio.h>
 
