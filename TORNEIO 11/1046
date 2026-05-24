@@ -1,3 +1,15 @@
+/* --------------------------------------------------------------------------
+Disciplina  : Lógica de Programação, turma IB, 2026S1
+Nome        : Maria Eduarda de Carvalho Raimundo
+Linguagem   : C
+Problema    : beecrowd 1046 - Tempo de Jogo
+Data        : 19/05/2026
+Objetivo    : Ler a hora inicial e final de um jogo e calcular sua
+              duração considerando que o jogo pode ultrapassar a meia-noite.
+Aprendizado : Aprendi a utilizar estruturas condicionais para tratar
+              diferentes situações de cálculo, aplicar operações com
+              horários e usar funções matemáticas em C.
+-------------------------------------------------------------------------- */
 #include<stdio.h>
 #include <math.h>
 
