@@ -2,7 +2,7 @@
 Disciplina  : Lógica de Programação, turma IB, 2026S1
 Nome        : Maria Eduarda de Carvalho Raimundo
 Linguagem   : C
-Problema    : beecrowd 1179 - Preenchimento de Vetor IV
+Problema    : https://judge.beecrowd.com/pt/problems/view/1179
 Data        : 19/05/2026
 Objetivo    : Ler valores inteiros, separá-los em vetores de números
               pares e ímpares e imprimir os vetores sempre que atingirem
