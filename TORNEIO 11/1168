@@ -2,7 +2,7 @@
 Disciplina  : Lógica de Programação, turma IB, 2026S1
 Nome        : Maria Eduarda de Carvalho Raimundo
 Linguagem   : C
-Problema    : beecrowd 1168 - LED
+Problema    : https://judge.beecrowd.com/pt/problems/view/1168
 Data        : 19/05/2026
 Objetivo    : Ler valores numéricos e calcular a quantidade total de LEDs
               necessária para exibir cada número informado, considerando
