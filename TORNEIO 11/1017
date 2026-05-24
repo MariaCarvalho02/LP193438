@@ -1,3 +1,17 @@
+/* --------------------------------------------------------------------------
+Disciplina  : Lógica de Programação, turma IB, 2026S1
+Nome        : Maria Eduarda de Carvalho Raimundo
+Linguagem   : C
+Problema    : beecrowd 1017 - Gasto de Combustível
+Data        : 19/05/2026
+Objetivo    : Calcular a quantidade de combustível gasta em uma viagem
+              com base no tempo e na velocidade média informados,
+              considerando rendimento de 12 km/L.
+Aprendizado : Aprendi a realizar cálculos matemáticos em C, utilizar
+              variáveis do tipo inteiro e real, além de trabalhar com
+              entrada, processamento e saída formatada de dados.
+-------------------------------------------------------------------------- */
+
 #include <stdio.h>
 
 int main(){
