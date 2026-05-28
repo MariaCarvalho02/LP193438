@@ -5,12 +5,11 @@ Linguagem   : C
 Problema    : https://judge.beecrowd.com/pt/problems/view/1029
 Data        : 28/05/2026
 Objetivo    : Ler valores inteiros e calcular números da sequência
-               de Fibonacci, informando também a quantidade de chamadas
-               recursivas realizadas durante o cálculo.
-Aprendizado : Uso de vetores para memorização de resultados,
-               funções recursivas, programação dinâmica,
-               estruturas de repetição e manipulação de dados
-               em C.
+               de Fibonacci, mostrando também a quantidade de chamadas
+               recursivas realizadas.
+Aprendizado : Aprendi a utilizar funções recursivas, vetores e
+               repetição para resolver problemas matemáticos.
+Pergunta de segunda ordem: Por que o Fibonacci não começa em 2?
 -------------------------------------------------------------------------- */
 
 #include <stdio.h>
