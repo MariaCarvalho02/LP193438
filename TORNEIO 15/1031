@@ -1,3 +1,18 @@
+/* --------------------------------------------------------------------------
+Disciplina  : Lógica de Programação, turma IB, 2026S1
+Nome        : Maria Eduarda de Carvalho Raimundo
+Linguagem   : C
+Problema    : https://judge.beecrowd.com/pt/problems/view/1031
+Data        : 09/06/2026
+Objetivo    : Determinar o menor valor de m para que, em um processo
+               de eliminação circular, a posição 13 seja a última a
+               permanecer ativa.
+Aprendizado : Aprendi a utilizar recursão, programação dinâmica,
+               vetores bidimensionais e problemas envolvendo
+               eliminação circular.
+Pergunta de segunda ordem: Por que as pessoas ficam em círculo
+               nesse problema?
+-------------------------------------------------------------------------- */
 #include <stdio.h>
 
 int T[101][1001];
