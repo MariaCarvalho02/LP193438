@@ -3,7 +3,7 @@ Disciplina  : Lógica de Programação, turma IB, 2026S1
 Nome        : Maria Eduarda de Carvalho Raimundo
 Linguagem   : C
 Problema    : https://judge.beecrowd.com/pt/problems/view/1029
-Data        : 28/05/2026
+Data        : 26/05/2026
 Objetivo    : Ler valores inteiros e calcular números da sequência
                de Fibonacci, mostrando também a quantidade de chamadas
                recursivas realizadas.
