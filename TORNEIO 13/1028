@@ -3,7 +3,7 @@ Disciplina  : Lógica de Programação, turma IB, 2026S1
 Nome        : Maria Eduarda de Carvalho Raimundo
 Linguagem   : C
 Problema    : https://judge.beecrowd.com/pt/problems/view/1028
-Data        : 14/05/2026
+Data        : 26/05/2026
 Objetivo    : Ler pares de números inteiros e calcular o
                Máximo Divisor Comum (MDC) utilizando o algoritmo
                de Euclides.
