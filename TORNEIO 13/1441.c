@@ -3,7 +3,7 @@ Disciplina  : Lógica de Programação, turma IB, 2026S1
 Nome        : Maria Eduarda de Carvalho Raimundo
 Linguagem   : C
 Problema    : https://judge.beecrowd.com/pt/problems/view/1441
-Data        : 28/05/2026
+Data        : 26/05/2026
 Objetivo    : Ler números inteiros e determinar o maior valor
                encontrado durante a sequência de Collatz até chegar em 1.
 Aprendizado : Aprendi a utilizar estruturas de repetição,
